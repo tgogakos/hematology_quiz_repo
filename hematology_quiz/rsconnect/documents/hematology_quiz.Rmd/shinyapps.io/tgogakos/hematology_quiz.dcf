@@ -1,0 +1,12 @@
+name: hematology_quiz
+title: hematology_quiz
+username:
+account: tgogakos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2489744
+bundleId: 3304773
+url: https://tgogakos.shinyapps.io/hematology_quiz/
+when: 1592881636.46931
+asMultiple: FALSE
+asStatic: FALSE
